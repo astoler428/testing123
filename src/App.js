@@ -2,6 +2,7 @@ import "./App.css";
 import Todo1 from "./components/Todo1";
 
 function App() {
+  //adding a commit on feature branch here
   const todos = [
     { id: 1, title: "wash dishes", completed: false },
     { id: 2, title: "make dinner", completed: true },
