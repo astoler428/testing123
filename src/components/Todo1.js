@@ -1,5 +1,5 @@
 import React from "react";
-
+//feature
 export default function Todo1({ todo }) {
   const { id, title, completed } = todo;
   const h1 = <h1>{title}</h1>;
