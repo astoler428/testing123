@@ -5,7 +5,8 @@ function App() {
   //adding a commit on feature branch here
   const todos = [
     { id: 1, title: "wash dishes", completed: false },
-    { id: 2, title: "make dinner", completed: true },
+
+    { id: 4, title: "make dinner", completed: true },
   ];
   //comment in main
   return (
